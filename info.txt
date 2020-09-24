@@ -1,0 +1,5 @@
+how to use hooks (useState and useEffect)
+
+how to clean up hook methods when unmounting a component
+ 
+Routing from scratch, with a header with different sets of links
